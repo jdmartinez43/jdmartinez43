@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jdmartinez43
+- 👋 Hi, I’m Jose David Martinez
 - 👀 I’m interested in linux environments and scripting
 - 🌱 I’m currently learning data structures and algorithms in preparation for interviews
 - 📫 Reach me at my current business email: jdm4.business@gmail.com
