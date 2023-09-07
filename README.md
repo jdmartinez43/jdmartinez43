@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Jose David Martinez
-- 👀 I’m interested in linux environments and scripting
-- 🌱 I’m currently learning data structures and algorithms in preparation for interviews
+- 👋 Hi, I’m Jose Martinez
+- 👀 I’m interested in databases and web development
+- 🌱 I’m currently learning C# and .NET Development technologies
 - 📫 Reach me at my current business email: jdm4.business@gmail.com
 
 <!---
